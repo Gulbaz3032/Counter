@@ -1,0 +1,25 @@
+.main{
+    text-align: center;
+    border: 10px solid red;
+    width: 30%;
+    margin-left: 30%;
+    margin-top: 5%;
+    padding: 12%;
+    background-color: blueviolet;
+
+}
+.btn{
+    padding: 20px;
+    margin-top: 10px;
+    font-size: 40px;
+    border: 3px solid grey;
+}
+.zero{
+    color: white;
+    font-size: 70px;
+    background-color: aqua;
+    margin-left: 34%;
+    border: 10px solid green;
+    padding: 10px;
+    width: 30%;
+}
